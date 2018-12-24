@@ -1,0 +1,20 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\lib\idea_rt.jar=52495:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester3\out\production\Tester3 Main
+List: Doug,Mike,Janet,Matt,Tim,Doris
+
+Item 2: Janet
+
+Name 0: Doug
+Name 1: Mike
+Name 2: Janet
+Name 3: Matt
+Name 4: Tim
+Name 5: Doris
+Value 0: 3
+Value 1: 6
+Value 2: 9
+Value 3: 12
+Value 4: 15
+Value 5: 18
+Value 6: 21
+
+Process finished with exit code 0
